@@ -40,3 +40,8 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+https://stackblitz.com/github/vueschool/jamstack-the-complete-guide
+https://vueschool.io/courses/jamstack-the-complete-guide
+https://stackblitz.com/edit/nuxt-3-sdk-demo
+
